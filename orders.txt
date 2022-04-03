@@ -1,0 +1,3 @@
+Order ID       Order Date                         Items                                                                                Amount                             
+AX1            2021/07/19                         [1)  Coffee                    RM1.80, 2)  Soft drink                RM2.00]         3.80                               
+AX2            2021/07/19                         [1)  Coffee                    RM1.80]                                               1.80                               
